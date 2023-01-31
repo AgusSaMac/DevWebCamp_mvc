@@ -7,3 +7,4 @@ package-lock.json
 .DS_store
 .env
 desktop.ini
+devwebcamp_database.sql
